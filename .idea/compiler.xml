@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Part14_03.SavingsCalculator" />
+        <module name="SavingsCalculator" />
       </profile>
     </annotationProcessing>
   </component>
